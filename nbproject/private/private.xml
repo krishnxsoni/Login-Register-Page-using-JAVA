@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/web/login.html</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/src/java/model/RegistrationAuthenticator.java</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/src/java/dto/UserDTO.java</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/web/register.html</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/src/java/controller/LoginChecker.java</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/src/java/db/DBConnector.java</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/web/logout.jsp</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/web/home.jsp</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/src/java/controller/RegistrationChecker.java</file>
+            <file>file:/C:/Users/Krishna/OneDrive/Documents/NetBeansProjects/TestWebApplication_MVC/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
